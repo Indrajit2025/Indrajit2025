@@ -20,7 +20,7 @@
 ### 📂 Featured Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Fixity-CRI](https://fixity-cri.indrajit.in.net/)** | **Civic Risk Index:** A sophisticated platform for reporting and analyzing civic issues. | TypeScript, React, Flask | **[code](https://github.com/Indrajit2025/PROJECT---CRI---2025)**
+| **[Fixity-CRI](https://fixity-cri.indrajit.in.net/)** | **Civic Risk Index:** A sophisticated platform for reporting and analyzing civic issues.**[code](https://github.com/Indrajit2025/PROJECT---CRI---2025)** | TypeScript, React, Flask | 
 | **Elevater** | An Job Reccomendation portal with matching skills by [ tfidftokenizer & cosine similarity ] ML models  . | Python, Logic Design |
 | **[REC Hackathon Club](https://hackathonclub.rec.ac.in)** | The official college site for hackathon events, registrations, and club management. | Flask, HTML/CSS |
 | **EZZO** | Mobile attendance app within 5 sec. using **BLE technology** and Flutter. | Flutter, Dart, Flask |
