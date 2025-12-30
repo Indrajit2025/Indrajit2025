@@ -20,7 +20,7 @@
 ### 📂 Featured Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Fixity-CRI](https://github.com/Indrajit2025/PROJECT---CRI---2025)** | **Civic Risk Index:** A sophisticated platform for reporting and analyzing civic issues. | TypeScript, React, Flask |
+| **[Fixity-CRI](https://fixity-cri.indrajit.in.net/)** | **Civic Risk Index:** A sophisticated platform for reporting and analyzing civic issues. | TypeScript, React, Flask | **[code](https://github.com/Indrajit2025/PROJECT---CRI---2025)**
 | **Elevater** | An Job Reccomendation portal with matching skills by [ tfidftokenizer & cosine similarity ] ML models  . | Python, Logic Design |
 | **[REC Hackathon Club](https://hackathonclub.rec.ac.in)** | The official college site for hackathon events, registrations, and club management. | Flask, HTML/CSS |
 | **EZZO** | Mobile attendance app within 5 sec. using **BLE technology** and Flutter. | Flutter, Dart, Flask |
@@ -47,12 +47,12 @@
 
 ### 📊 My GitHub Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Indrajit2025&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Indrajit2025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Indrajit2025&theme=shadow_blue&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indrajit2025&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indrajit2025&theme=shadow_blue&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Indrajit2025&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>>
 
 ---
 
@@ -61,6 +61,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indrajitlaptop2025@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.indrajit.in.net)
 
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=Indrajit2025&icon=0&color=0" alt="Visitor Count" />
-</p>
