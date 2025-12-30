@@ -10,9 +10,9 @@
 
 ### 👤 About Me
 - 🎓 **Academic:** 3rd-semester B.Tech Computer Science student at **Rajdhani Engineering College (BPUT)**.
-- 🛠️ **Leadership:** **Technical Head** of the official **REC Hackathon Club**, leading development and innovation.
+- 🛠️ **Leadership:** **Technical Head** of the official **[REC Hackathon Club](https://hackathonclub.rec.ac.in/)**, leading development and innovation.
 - 🏆 **Recognition:** 3rd Prize Winner at the **BPUT Hackathon Grand Finale** (**[ElevatR](https://github.com/Indrajit2025/ElevetR-2025/blob/main/README.md)**-Job Recommendation Portal).
-- 🧠 **Current Mission:** Mastering **Deep Learning**, **Advanced Mathematics**, and **MLOps** to build high-performance systems.
+- 🧠 **Current Mission:** Mastering **Machine Learning**, **Advanced Mathematics of ML**, and **Backend-FastApi** to build high-performance systems.
 - 📍 **Location:** Bhubaneswar, Odisha, India.
 
 ---
