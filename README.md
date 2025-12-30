@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Indrajit2025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Indrajit2025&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
 </p>>
 
 ---
