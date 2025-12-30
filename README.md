@@ -49,8 +49,7 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Indrajit2025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indrajit2025&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
+  
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Indrajit2025&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>>
 
