@@ -21,9 +21,9 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Fixity-CRI](https://github.com/Indrajit2025/PROJECT---CRI---2025)** | **Civic Risk Index:** A sophisticated platform for reporting and analyzing civic issues. | TypeScript, React, Flask |
-| **Elevater** | An innovative project focused on system efficiency and vertical transport logic. | Python, Logic Design |
+| **Elevater** | An Job Reccomendation portal with matching skills by [ tfidftokenizer & cosine similarity ] ML models  . | Python, Logic Design |
 | **[REC Hackathon Club](https://hackathonclub.rec.ac.in)** | The official college site for hackathon events, registrations, and club management. | Flask, HTML/CSS |
-| **Attendify** | Mobile attendance solution using **BLE technology** and Flutter. | Flutter, Dart, Flask |
+| **EZZO** | Mobile attendance app within 5 sec. using **BLE technology** and Flutter. | Flutter, Dart, Flask |
 
 ---
 
@@ -39,9 +39,9 @@
 #### 🌐 Web & Mobile Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 
 ---
 
