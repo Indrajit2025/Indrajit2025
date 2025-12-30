@@ -2,8 +2,8 @@
 ### 🚀 Technical Head @ REC Hackathon Club | Aspiring MLOps Engineer
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Building_the_Future-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-ML_%26_Deep_Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building_the_Future-deepgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Advance ML_%26_BACKEND-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ### 👤 About Me
 - 🎓 **Academic:** 3rd-semester B.Tech Computer Science student at **Rajdhani Engineering College (BPUT)**.
 - 🛠️ **Leadership:** **Technical Head** of the official **REC Hackathon Club**, leading development and innovation.
-- 🏆 **Recognition:** 3rd Prize Winner at the **BPUT Hackathon Grand Finale** (Job Recommendation Portal).
+- 🏆 **Recognition:** 3rd Prize Winner at the **BPUT Hackathon Grand Finale** (**[ElevatR](https://github.com/Indrajit2025/ElevetR-2025/blob/main/README.md)**-Job Recommendation Portal).
 - 🧠 **Current Mission:** Mastering **Deep Learning**, **Advanced Mathematics**, and **MLOps** to build high-performance systems.
 - 📍 **Location:** Bhubaneswar, Odisha, India.
 
@@ -21,7 +21,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Fixity-CRI](https://fixity-cri.indrajit.in.net/)** | **Civic Risk Index:** A sophisticated platform for reporting and analyzing civic issues.**[code](https://github.com/Indrajit2025/PROJECT---CRI---2025)** | TypeScript, React, Flask | 
-| **Elevater** | An Job Reccomendation portal with matching skills by [ tfidftokenizer & cosine similarity ] ML models  . | Python, Logic Design |
+| **[Elevater](https://github.com/Indrajit2025/ElevetR-2025/blob/main/README.md)** | An Job Reccomendation portal with matching skills by [ tfidftokenizer & cosine similarity ] ML models  . | Python, Logic Design |
 | **[REC Hackathon Club](https://hackathonclub.rec.ac.in)** | The official college site for hackathon events, registrations, and club management. | Flask, HTML/CSS |
 | **EZZO** | Mobile attendance app within 5 sec. using **BLE technology** and Flutter. | Flutter, Dart, Flask |
 
